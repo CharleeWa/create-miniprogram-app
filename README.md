@@ -1,1 +1,8 @@
-# create-miniprogram-app
+# 小程序脚手架
+
+##### 使用方法：
+
+- 复制基本目录文件，除去miniprogram_npm、node_modules相关依赖；
+- 粘贴至新项目，后使用 `npm install` 安装相关依赖；
+- 小程序面板-详情-勾选**使用npm模块**，然后菜单栏，选择工具，进行npm构建；
+- …… 

@@ -1,0 +1,24 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/mine/mine"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "小程序模板",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "custom": true,
+    "color": "#000000",
+    "selectedColor": "#000000",
+    "backgroundColor": "#000000",
+    "list": [{
+      "pagePath": "pages/index/index"
+    }, {
+      "pagePath": "pages/mine/mine"
+    }]
+  },
+  "sitemapLocation": "sitemap.json"
+}
