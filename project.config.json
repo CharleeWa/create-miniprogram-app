@@ -47,7 +47,7 @@
   "compileType": "miniprogram",
   "libVersion": "2.16.1",
   "appid": "wxcb56a98043a74aec",
-  "projectname": "miniprogram-template",
+  "projectname": "create-miniprogram-app",
   "debugOptions": {
     "hidedInDevtools": []
   },
